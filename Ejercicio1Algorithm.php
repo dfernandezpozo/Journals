@@ -9,3 +9,4 @@ if ($num1 != $num2 || $num2 != $num1) {
 
     echo ($total * 3);
 }
+?>
